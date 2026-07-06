@@ -334,7 +334,7 @@ Generative Models  ████████████░░░░░░░░�
 ## 🐍 &nbsp;Coding Activity
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Lohit720/Lohit720/output/dist/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Lohit720/Lohit720/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 <sub>Snake animation generated via <code>Platane/snk</code> GitHub Action — add the workflow to your profile repo to activate.</sub>
 </div>
 
