@@ -105,22 +105,42 @@
 
 <br/>
 
-## 🖥️ &nbsp;Terminal
+## 🧭 &nbsp;Quick Facts
 
-```bash
-lohit@720degrees ~ % whoami
-> Software Engineer building enterprise AI products,
-> RAG pipelines, and regulatory-grade platforms.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-lohit@720degrees ~ % currently_building
-> Enterprise Product Suite · Legal RAG Chatbot
+**🛠️ Currently Building**
+<br/>
+Enterprise Product Suite · Legal RAG Chatbot
 
-lohit@720degrees ~ % currently_learning
-> Diffusion Models · Distributed System Design
+</td>
+<td width="50%" valign="top">
 
-lohit@720degrees ~ % contact
-> lohit.mishra@720degrees.ai  ·  linkedin.com/in/lohit-mishra-2b145b1a9
-```
+**📚 Currently Learning**
+<br/>
+Diffusion Models · Distributed System Design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**✨ Summary**
+<br/>
+Software Engineer building enterprise AI products, RAG pipelines, and regulatory-grade platforms.
+
+</td>
+<td width="50%" valign="top">
+
+**📬 Reach Me**
+<br/>
+lohit.mishra@720degrees.ai · linkedin.com/in/lohit-mishra-2b145b1a9
+
+</td>
+</tr>
+</table>
 
 <br/>
 
