@@ -58,7 +58,7 @@
 ```
 🏢 COMPANY
 ```
-**720 Degrees Inc.**
+**720 Degrees**
 <sub>AI Consulting & Digital Transformation</sub>
 
 </td>
@@ -79,7 +79,7 @@
 🎓 EDUCATION
 ```
 **B.Tech, CSE**
-<sub>KIIT University</sub>
+<sub>Computer Science Engineering</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -133,7 +133,7 @@ lohit@720degrees ~ % contact
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lohit720&show_icons=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=00E5C3&icon_color=00E5C3&text_color=E6FFFA&ring_color=0891B2" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lohit720&hide_border=true&background=0F172A&stroke=00E5C3&ring=0891B2&fire=00E5C3&currStreakLabel=00E5C3&sideLabels=E6FFFA&currStreakNum=E6FFFA&sideNums=E6FFFA&dates=94A3B8" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Lohit720&hide_border=true&background=0F172A&stroke=00E5C3&ring=0891B2&fire=00E5C3&currStreakLabel=00E5C3&sideLabels=E6FFFA&currStreakNum=E6FFFA&sideNums=E6FFFA&dates=94A3B8" height="165"/>
 
 <br/>
 
