@@ -58,7 +58,7 @@
 ```
 🏢 COMPANY
 ```
-**720 Degrees**
+**720 Degrees Inc.**
 <sub>AI Consulting & Digital Transformation</sub>
 
 </td>
@@ -79,7 +79,7 @@
 🎓 EDUCATION
 ```
 **B.Tech, CSE**
-<sub>Computer Science Engineering</sub>
+<sub>KIIT University</sub>
 
 </td>
 <td width="33%" valign="top">
