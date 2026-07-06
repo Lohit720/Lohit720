@@ -1,0 +1,64 @@
+<svg viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00E5C3"/>
+      <stop offset="50%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00E5C3" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00E5C3" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="cardGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111C33"/>
+      <stop offset="100%" stop-color="#0B1221"/>
+    </linearGradient>
+
+    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Vertical connector line -->
+  <line x1="60" y1="70" x2="60" y2="580" stroke="url(#lineGrad)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="y2" from="70" to="580" dur="1.6s" fill="freeze"/>
+  </line>
+
+  <!-- ============ NODE 1 — Software Engineer ============ -->
+  <circle cx="60" cy="90" r="20" fill="url(#nodeGlow)">
+    <animate attributeName="r" values="18;24;18" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="90" r="9" fill="#00E5C3"/>
+  <circle cx="60" cy="90" r="9" fill="none" stroke="#00E5C3" stroke-width="2" opacity="0.6">
+    <animate attributeName="r" values="9;22;9" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="110" y="30" width="740" height="130" rx="18" fill="url(#cardGrad)" stroke="#00E5C3" stroke-opacity="0.35" stroke-width="1.4" filter="url(#softShadow)"/>
+  <text x="140" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#00E5C3">Software Engineer — 720 Degrees</text>
+  <text x="140" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#B6C2D9">
+    <tspan x="140" dy="0">Enterprise product development · Regulatory tech platforms</tspan>
+    <tspan x="140" dy="22">AI integrations · Business discovery · Full-stack delivery</tspan>
+  </text>
+  <rect x="140" y="115" width="86" height="24" rx="12" fill="#00E5C3" fill-opacity="0.12" stroke="#00E5C3" stroke-opacity="0.5"/>
+  <text x="183" y="131" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#00E5C3" text-anchor="middle">CURRENT</text>
+
+  <!-- ============ NODE 2 — B.Tech ============ -->
+  <circle cx="60" cy="320" r="9" fill="#0891B2"/>
+  <rect x="110" y="260" width="740" height="120" rx="18" fill="url(#cardGrad)" stroke="#0891B2" stroke-opacity="0.35" stroke-width="1.4" filter="url(#softShadow)"/>
+  <text x="140" y="298" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#5EEAD4">B.Tech — Computer Science Engineering</text>
+  <text x="140" y="324" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#B6C2D9">
+    <tspan x="140" dy="0">Foundations in algorithms, systems, and software engineering</tspan>
+  </text>
+
+  <!-- ============ NODE 3 — Origin ============ -->
+  <circle cx="60" cy="540" r="9" fill="#475569"/>
+  <rect x="110" y="480" width="740" height="130" rx="18" fill="url(#cardGrad)" stroke="#475569" stroke-opacity="0.5" stroke-width="1.4" filter="url(#softShadow)"/>
+  <text x="140" y="518" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#94A3B8">Origin</text>
+  <text x="140" y="544" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8593AA">
+    <tspan x="140" dy="0">Curiosity-driven builder — started shipping products, then found</tspan>
+    <tspan x="140" dy="22">AI &amp; enterprise systems as the long game.</tspan>
+  </text>
+</svg>
