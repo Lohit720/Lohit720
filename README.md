@@ -306,18 +306,9 @@ A collection of automation tooling — from data extraction pipelines to workflo
 
 ## 🛰️ &nbsp;Experience Timeline
 
-```
-   ●  Software Engineer — 720 Degrees
-   │  Enterprise product development · Regulatory tech platforms
-   │  AI integrations · Business discovery · Full-stack delivery
-   │
-   ●  B.Tech — Computer Science Engineering
-   │  Foundations in algorithms, systems, and software engineering
-   │
-   ●  Origin
-      Curiosity-driven builder — started shipping products,
-      then found AI & enterprise systems as the long game.
-```
+<div align="center">
+<img src="timeline.svg" width="100%"/>
+</div>
 
 <br/>
 
